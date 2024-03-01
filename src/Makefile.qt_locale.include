@@ -1,0 +1,22 @@
+QT_TS = \
+  qt/locale/qlink_ar.ts \
+  qt/locale/qlink_bg.ts \
+  qt/locale/qlink_de.ts \
+  qt/locale/qlink_en.ts \
+  qt/locale/qlink_es.ts \
+  qt/locale/qlink_fi.ts \
+  qt/locale/qlink_fr.ts \
+  qt/locale/qlink_it.ts \
+  qt/locale/qlink_ja.ts \
+  qt/locale/qlink_ko.ts \
+  qt/locale/qlink_nl.ts \
+  qt/locale/qlink_pl.ts \
+  qt/locale/qlink_pt.ts \
+  qt/locale/qlink_ro.ts \
+  qt/locale/qlink_ru.ts \
+  qt/locale/qlink_sk.ts \
+  qt/locale/qlink_th.ts \
+  qt/locale/qlink_tr.ts \
+  qt/locale/qlink_vi.ts \
+  qt/locale/qlink_zh_CN.ts \
+  qt/locale/qlink_zh_TW.ts

@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Qlink Core
+Comment=Qlink P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Qlink peer-to-peer Netzwerk
+Comment[fr]=Qlink, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Qlink, eşten eşe kriptografik sanal para birimi
+Exec=qlink-qt %u
+Terminal=false
+Type=Application
+Icon=qlink128
+MimeType=x-scheme-handler/qlink;
+Categories=Office;Finance;P2P;Network;Qt;
+StartupWMClass=Qlink-qt

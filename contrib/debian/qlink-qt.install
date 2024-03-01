@@ -1,0 +1,6 @@
+usr/local/bin/qlink-qt usr/bin
+share/pixmaps/qlink32.xpm usr/share/pixmaps
+share/pixmaps/qlink16.xpm usr/share/pixmaps
+share/pixmaps/qlink128.png usr/share/pixmaps
+debian/qlink-qt.desktop usr/share/applications
+debian/qlink-qt.protocol usr/share/kde4/services/

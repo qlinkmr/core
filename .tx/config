@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[qlink.qlink_ents]
+file_filter = src/qt/locale/qlink_<lang>.ts
+source_file = src/qt/locale/qlink_en.xlf
+source_lang = en

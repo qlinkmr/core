@@ -1,0 +1,25 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="ar">locale/qlink_ar.qm</file>
+        <file alias="bg">locale/qlink_bg.qm</file>
+        <file alias="de">locale/qlink_de.qm</file>
+        <file alias="en">locale/qlink_en.qm</file>
+        <file alias="es">locale/qlink_es.qm</file>
+        <file alias="fi">locale/qlink_fi.qm</file>
+        <file alias="fr">locale/qlink_fr.qm</file>
+        <file alias="it">locale/qlink_it.qm</file>
+        <file alias="ja">locale/qlink_ja.qm</file>
+        <file alias="ko">locale/qlink_ko.qm</file>
+        <file alias="nl">locale/qlink_nl.qm</file>
+        <file alias="pl">locale/qlink_pl.qm</file>
+        <file alias="pt">locale/qlink_pt.qm</file>
+        <file alias="ro">locale/qlink_ro.qm</file>
+        <file alias="ru">locale/qlink_ru.qm</file>
+        <file alias="sk">locale/qlink_sk.qm</file>
+        <file alias="th">locale/qlink_th.qm</file>
+        <file alias="tr">locale/qlink_tr.qm</file>
+        <file alias="vi">locale/qlink_vi.qm</file>
+        <file alias="zh_CN">locale/qlink_zh_CN.qm</file>
+        <file alias="zh_TW">locale/qlink_zh_TW.qm</file>
+    </qresource>
+</RCC>
